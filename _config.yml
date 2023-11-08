@@ -1,3 +1,5 @@
 title: Zeeshan's blog
 author: Zeeshan Sardar
 theme: minima
+
+permalink: /:categories/:2023/:11/:08/:title:My First Blog
