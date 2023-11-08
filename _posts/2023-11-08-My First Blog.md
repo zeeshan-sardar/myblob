@@ -1,4 +1,4 @@
 ---
 title: "My First Blog"
-date: YYYY-MM-DD
+date: 2023-11-08
 ---
